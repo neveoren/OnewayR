@@ -26,6 +26,9 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(OnewayR)
-## basic example code
+x <- oneway(mpg~cyl, mtcars)
+print(x)
+plot(x)
+summary(x)
 ```
 
