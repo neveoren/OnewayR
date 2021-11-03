@@ -19,8 +19,6 @@ The \code{summary.oneway} function prints a summary of the analysis of variance
 }
 \examples{
 x <- oneway(mpg~cyl, mtcars)
-summary.oneway(x)
-
 summary(x)
 
 }

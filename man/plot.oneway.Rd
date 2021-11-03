@@ -19,8 +19,6 @@ the \code{plot.oneway} function plots the results of the oneway analysis
 }
 \examples{
 x <- oneway(mpg~cyl, mtcars)
-plot.oneway(x)
-
 plot(x)
 
 }

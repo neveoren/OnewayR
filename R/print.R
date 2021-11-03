@@ -18,8 +18,6 @@
 #'
 #'@examples
 #'x <- oneway(mpg~cyl, mtcars)
-#'print.oneway(x)
-#'
 #'print(x)
 #'
 

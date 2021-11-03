@@ -16,8 +16,6 @@
 #'
 #'@examples
 #'x <- oneway(mpg~cyl, mtcars)
-#'summary.oneway(x)
-#'
 #'summary(x)
 #'
 

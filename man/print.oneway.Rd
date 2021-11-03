@@ -21,8 +21,6 @@ the anova results (analysis of variance)
 }
 \examples{
 x <- oneway(mpg~cyl, mtcars)
-print.oneway(x)
-
 print(x)
 
 }

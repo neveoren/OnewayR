@@ -16,8 +16,6 @@
 #'
 #'@examples
 #'x <- oneway(mpg~cyl, mtcars)
-#'plot.oneway(x)
-#'
 #'plot(x)
 #'
 
