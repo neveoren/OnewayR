@@ -6,7 +6,7 @@ Authors@R:
            family = "Oren",
            role = c("aut", "cre"),
            email = "noren@wesleyan.edu")
-Description: This package performs oneway analysis of variance, 
+Description: This package performs a oneway analysis of variance, 
     creating an object with a class of "oneway" with additional 
     print, plot, and summary functions.
 License: MIT + file LICENSE
