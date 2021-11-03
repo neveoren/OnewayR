@@ -1,8 +1,7 @@
 
 # OnewayR
 
-<!-- badges: start -->
-<!-- badges: end -->
+![](oneway.png)
 
 The goal of OnewayR is to perform a oneway analysis of variance
 creating an object with a class of "oneway", 
@@ -10,7 +9,7 @@ with print, plot, and summary functions associated.
 
 ## Installation
 
-You can install OnewayR from  with:
+You can install OnewayR with:
 
 ``` r
 if(!require("remotes")){
